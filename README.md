@@ -244,10 +244,6 @@ Tech for good initiatives
 
 <br/>
 
-<!-- Visitor Counter -->
-<img src="https://visitcount.itsvg.in/api?id=malikmajeed&icon=6&color=6" alt="Visit Count" />
-
-<br/><br/>
 
 **"Building technology that empowers communities, one line of code at a time"** ✨
 
