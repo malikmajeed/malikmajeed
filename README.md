@@ -1,5 +1,7 @@
 # 💫 About Me  
-I'm a full-stack engineer specializing in building scalable, production-ready web applications with clean architecture and modern UI/UX. I write industry-standard code that's maintainable, testable, and built to scale.
+Full-stack engineer building scalable, clean-architecture applications with modern UI/UX and production-ready code. I focus on maintainability, performance, and developer happiness.
+
+---
 
 ## 🚀 Current Projects
 
@@ -8,7 +10,7 @@ I'm a full-stack engineer specializing in building scalable, production-ready we
 | 🤖 AI Platform | 🏥 Healthcare | 💝 Non-Profit |
 |:---:|:---:|:---:|
 | **Multi-Tenant AI Assistant** | **Patient Care System** | **Donation Management** |
-| Helping businesses automate customer interactions with intelligent AI agents | Online platform for booking professional nursing care with real-time availability | Volunteer work for Ansar Relief Foundation, streamlining donor engagement |
+| Automates business operations with intelligent AI agents | Nursing care scheduling with real-time availability | Supporting Ansar Relief Foundation with volunteer tech |
 
 </div>
 
@@ -18,16 +20,15 @@ I'm a full-stack engineer specializing in building scalable, production-ready we
 
 <div align="center">
 
-<!-- Profile Summary Card (clean and elegant) -->
-<a href="https://github.com/malikmajeed">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=malikmajeed&theme=default" width="100%">
-</a>
+<!-- Full Width Profile Card -->
 
-<!-- Row: Stats + Top Languages -->
-<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
 
+<!-- Single Row: Stats + Languages + Contributions -->
+<div style="display: flex; justify-content: center; align-items: center; gap: 12px; margin-top: 10px;">
+
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=malikmajeed&theme=default" width="100%">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=malikmajeed&theme=default" height="150">
-
+  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=malikmajeed&theme=default" height="150">
 
 </div>
@@ -42,7 +43,6 @@ I'm a full-stack engineer specializing in building scalable, production-ready we
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/malikmajeedzia)
 [![Email](https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:malikmajeedzia@gmail.com)
 
----
 
 # 💻 Tech Stack
 
