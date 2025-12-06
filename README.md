@@ -172,28 +172,6 @@ I dedicate my time to **volunteer work** with charities and non-profit organizat
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="24%" src="https://github-readme-stats.vercel.app/api?username=malikmajeed&show_icons=true&hide_border=true&bg_color=2563eb&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_radius=10" />
-<img width="24%" src="https://github-readme-streak-stats.herokuapp.com/?user=malikmajeed&hide_border=true&background=2563eb&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=10" />
-<img width="24%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikmajeed&layout=compact&hide_border=true&bg_color=2563eb&title_color=ffffff&text_color=ffffff&border_radius=10" />
-<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=malikmajeed&theme=blue_green&utcOffset=5" />
-
-</div>
-
----
-
-## 🏆 Achievements & Highlights
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=malikmajeed&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
-
-</div>
-
----
 
 ## 🤝 Let's Connect & Collaborate
 
