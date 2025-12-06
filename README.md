@@ -34,6 +34,7 @@ I'm a full-stack engineer specializing in building scalable, production-ready we
 
 </div>
 
+---
 
 ## 🌐 Socials  
 [![Facebook](https://img.shields.io/badge/Facebook-FFFFFF?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://facebook.com/malikmajeedzia)
