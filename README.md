@@ -14,18 +14,26 @@ I'm a full-stack engineer specializing in building scalable, production-ready we
 
 ---
 
-# 📊 GitHub Stats  
+# 📊 GitHub Stats
+
 <div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=malikmajeed&theme=default&hide_border=false&include_all_commits=false&count_private=false)
 
-![](https://nirzak-streak-stats.vercel.app/?user=malikmajeed&theme=default&hide_border=false)
+<!-- Profile Summary Card (clean and elegant) -->
+<a href="https://github.com/malikmajeed">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=malikmajeed&theme=default" width="100%">
+</a>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=malikmajeed&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Row: Stats + Top Languages -->
+<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=malikmajeed&theme=default" height="150">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=malikmajeed&theme=default" height="150">
 
 </div>
 
----
+</div>
+
 
 ## 🌐 Socials  
 [![Facebook](https://img.shields.io/badge/Facebook-FFFFFF?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://facebook.com/malikmajeedzia)
