@@ -120,14 +120,14 @@ I dedicate my time to **volunteer work** with charities and non-profit organizat
 <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,sass,bootstrap" />
 </p>
 
-<details>
-<summary><b>🔧 More Frontend Tools</b></summary>
-<br/>
+<p>
+<b>🔧 More Frontend Tools</b>
+<br/><br/>
 <img src="https://img.shields.io/badge/Mantine-339af0?style=for-the-badge&logo=mantine&logoColor=white" />
 <img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white" />
 <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
-</details>
+</p>
 
 <br/>
 
@@ -138,14 +138,14 @@ I dedicate my time to **volunteer work** with charities and non-profit organizat
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,mongodb,mysql" />
 </p>
 
-<details>
-<summary><b>🔧 More Backend Tools</b></summary>
+<p>
+<b>🔧 More Backend Tools</b></br>
 <br/>
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 <img src="https://img.shields.io/badge/Joi-f59e0b?style=for-the-badge&logo=npm&logoColor=white" />
 <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
 <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-</details>
+</p>
 
 <br/>
 
